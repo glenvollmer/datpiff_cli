@@ -3,9 +3,11 @@ a command line interface for downloading mixtapes from datpiff, because I love m
 
 USE:
 
-~ set up virtualenv $ source bin/activate
-
 ~ download requirements $ python3 -m pip -r requirements.txt
+
+~ make virtualenv $ python3 -m virtualenv datpiff_cli/
+
+~ set up virtualenv $ source bin/activate
 
 ~ find a datpiff mixtape url and download it!
 
