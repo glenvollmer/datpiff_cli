@@ -2,6 +2,7 @@
 a command line interface for downloading mixtapes from datpiff, because I love mixtapes and their site makes it too difficult to download mixtapes\n
 
 USE:
+
 ~ set up virtualenv $ source bin/activate
 
 ~ download requirements $ python3 -m pip -r requirements.txt
