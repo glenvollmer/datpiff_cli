@@ -1,5 +1,5 @@
 # datpiff_cli
-a command line interface for downloading mixtapes from datpiff, because I love mixtapes and their site makes it too difficult to download mixtapes
+a command line interface for downloading mixtapes from datpiff
 
 USE:
 
